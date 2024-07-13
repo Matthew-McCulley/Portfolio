@@ -36,8 +36,8 @@ export default function Home() {
                 title="MERN Ecommerce Store" 
                 image="/mern-site.jpeg"
                 description="Created a MERN stack site where people can buy and sell graphic tees. Utilizes JWT and Redux for state management." 
-                githubLink="https://github.com/Matthew-McCulley/MERN_AUTH" 
-                websiteLink="https://mern-authentication.cyclic.app/" 
+                githubLink="https://github.com/Matthew-McCulley/Ecommerce-Store" 
+                websiteLink="https://lively-reverence-production.up.railway.app/" 
               /> 
             </Col>
           </Row>
